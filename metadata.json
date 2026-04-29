@@ -1,0 +1,6 @@
+{
+  "name": "Smart Architecture Auto-Optimizer",
+  "description": "An e-commerce style platform to select, analyze, and optimize processor architectures (CPU, GPU, RISC, CISC) with real-time performance simulations.",
+  "requestFramePermissions": [],
+  "majorCapabilities": []
+}
